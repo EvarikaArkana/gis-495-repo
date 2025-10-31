@@ -1,2 +1,1 @@
-# gis-495-repo
-GIS 495 week 11 repo
+# This is the repo I made for my GIS495 week 11 meeting
